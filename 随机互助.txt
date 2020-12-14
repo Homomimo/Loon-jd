@@ -2,7 +2,7 @@
 
 东东工厂互助码api
 http://api.turinglabs.net/api/v1/jd/ddfactory/create/P04z54XCjVWnYaS5jIKDWj5331IiK-jzTRu3g/ #何仙
- #杰
+http://api.turinglabs.net/api/v1/jd/ddfactory/create/P04z54XCjVWnYaS5m9cZ2eti34YnLikVPqoLFw/ #杰
 
 
 查看上车人数
